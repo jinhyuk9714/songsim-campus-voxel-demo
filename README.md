@@ -3,6 +3,10 @@
 가톨릭대학교 성심교정을 바탕으로 만든 브라우저 기반 3D voxel 데모입니다.  
 정밀한 실측 복제보다는, 성심교정의 배치와 오르막 동선, 주요 랜드마크의 인상을 웹에서 자연스럽게 느끼게 하는 데 초점을 맞췄습니다.
 
+배포 주소:
+
+- [https://songsim-voxel.vercel.app](https://songsim-voxel.vercel.app)
+
 ## 프로젝트 소개
 
 이 프로젝트는 `Vite + TypeScript + Three.js`로 만든 인터랙티브 캠퍼스 데모입니다.
@@ -137,6 +141,10 @@ docs/codex/
 ## 배포 방법 (Vercel)
 
 이 프로젝트는 정적 출력 구조라 Vercel 기본 설정으로 배포할 수 있습니다.
+
+현재 배포 주소:
+
+- [https://songsim-voxel.vercel.app](https://songsim-voxel.vercel.app)
 
 기본 전제:
 
