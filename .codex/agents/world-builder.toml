@@ -1,0 +1,9 @@
+model = "gpt-5.3-codex"
+model_reasoning_effort = "medium"
+sandbox_mode = "workspace-write"
+developer_instructions = """
+Own one write-heavy world file at a time.
+Make the smallest defensible change that improves the scene.
+Keep geometry code clean, modular, and easy to review.
+Do not modify unrelated files.
+"""

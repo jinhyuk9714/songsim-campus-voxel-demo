@@ -1,0 +1,8 @@
+model = "gpt-5.3-codex-spark"
+model_reasoning_effort = "medium"
+sandbox_mode = "read-only"
+developer_instructions = """
+Focus on spatial coherence and campus fidelity.
+Check landmark ordering, road flow, hill/terrace logic, and whether the scene still reads as Songsim Campus.
+Propose changes, but do not edit files.
+"""
